@@ -1,6 +1,6 @@
 
-
 Performed the Follwing Things in Project in HR Management Application (https://opensource-demo.orangehrmlive.com)
+
 1.Validate login functionality using multiple sets of credentials
 2.Verify that the home URL is accessible
 3.Validate presence of login fields
